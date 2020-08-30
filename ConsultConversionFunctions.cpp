@@ -9,7 +9,6 @@
   find your code useful.
 **/
 
-#include "WProgram.h"
 #include "ConsultConversionFunctions.h"
 
 // Converts coolant temp value from ECU into human readable form

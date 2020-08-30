@@ -11,9 +11,6 @@
 #ifndef ConsultConversionFunctions_h
 #define ConsultConversionFunctions_h
 
-// Include default arduino stuffs
-#include "WProgram.h"
-
 class ConsultConversionFunctions
 {
   public:

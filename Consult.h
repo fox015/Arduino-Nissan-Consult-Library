@@ -16,8 +16,6 @@
 #ifndef Consult_h
 #define Consult_h
 
-// Include default arduino stuffs
-#include "WProgram.h"
 #include "ConsultRegister.h"
 #include "ConsultErrorCode.h"
 
